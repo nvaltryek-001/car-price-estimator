@@ -1,0 +1,27 @@
+START
+  ↓
+Collect Used Car Dataset
+  ↓
+Data Understanding
+  ↓
+Data Preprocessing
+  ├─ Missing-value handling
+  ├─ Duplicate removal
+  ├─ Categorical encoding
+  └─ Age feature creation
+  ↓
+EDA & Data Distribution
+  ↓
+Train / Test Split
+  ↓
+Linear Regression + Random Forest Regression
+  ↓
+MAE / RMSE / R² Evaluation
+  ↓
+Select Random Forest as recommended model
+  ↓
+User enters vehicle details
+  ↓
+Predicted Used-Car Price
+  ↓
+END
